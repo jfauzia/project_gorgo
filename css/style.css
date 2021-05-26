@@ -1,0 +1,250 @@
+*{
+    margin: 0;
+    padding: 0;
+}.header_section{
+    width: 60%;
+    margin: auto;
+    overflow: hidden;
+    margin-bottom: 100px;
+    }
+    .logo{
+    width: 20%;
+    float: left;
+    margin-top: 10px;
+    }
+    .logo img{
+        width: 65%;
+    }
+    nav{
+        width: 60%;
+        float: left;
+        margin-top: 20px;
+        }
+    nav ul{
+        list-style: none;
+        overflow: hidden;
+        }
+    nav ul li{
+        float: left;
+        margin-left: 25px;
+        text-transform:     uppercase;
+        color: #2D2A44;
+        }
+    .button{
+        float: right;
+        width: 17%;
+        }
+    button{
+        padding: 12px;
+        border: none;
+        border-radius: 7px;
+        background-color: #FF6162;
+        color: #FFF;
+        margin: left;
+        width: 100%;
+        margin-top: 9px;
+            }
+            .banner{
+                width: 60%;
+                margin: auto;
+                overflow: hidden;
+                margin-bottom: 200px;
+            }
+            .left_content{
+               width: 46%;
+               float: left;
+            }
+            .left_content h1{
+          text-transform: capitalize;
+          font-size: 45px;
+          font-weight: 600;
+          margin: 12px 0;
+          }
+    .left_content p{
+        color:#E4D5C2;
+        
+        line-height: 21px;
+        
+        }
+            .left_content img{
+        
+        width: 10%;
+        
+        }
+            .right_content{
+              width: 46%;
+              float: right;
+            }
+            .right_content img{
+        
+        width: 100%;
+        
+        }
+        .demo{
+
+            width: 94%;
+            
+            margin: auto;
+            
+            overflow: hidden;
+            
+            text-align: center;
+            
+            margin-bottom: 200px;
+            
+            }
+.text_part{
+     text-transform: capitalize;
+          }
+.text_part h1{
+        font-weight: 900;
+        margin: 9px 0;
+        }
+.text_part p{
+    width: 36%;
+    margin: auto;
+    margin-bottom: 25px;
+    color: #A2A8AB;
+           }
+   .image_part{
+       
+   width: 100%;
+   overflow: hidden;
+       }
+   .image_part h1{
+    color: #44484A;
+     text-transform:capitalize;
+       
+      }
+  .image_one{
+    float: left;
+      width: 25%; }
+  .image_two{
+      float: left;
+     width: 25%;
+             }
+ .image_three{
+    float: left;
+    width: 25%; }
+ .image_four{
+     float: right;
+     width: 25%;
+             }
+.feature{
+    text-align: center;
+    overflow: hidden;
+    width: 60%;
+    margin: auto;
+    margin-bottom: 200px;
+}
+.feature img{
+
+}
+
+.feature_icon1{
+    width: 100%;
+    margin: auto;
+    overflow: hidden;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.feature_icon1 h1{
+    text-transform: capitalize;
+    margin-bottom: 3px;
+    color: #464A4C;
+}
+.feature_icon1 p{
+    color: #8E9091;
+    line-height: 22px;
+}
+.icon_one{
+    float: left;
+    width: 30%;
+    background-color: #F5F5F5;
+    padding-bottom: 25px;
+    
+}   
+.icon_two{
+    float: left;
+    width: 30%;
+    margin-left: 5%;
+    background-color: #F5F5F5;
+    padding-bottom: 25px;
+}   
+.icon_three{
+    float: right;
+    width: 30%;
+    background-color: #F5F5F5;
+    padding-bottom: 25px;
+}  
+.feature_icon2{
+    width: 100%;
+    margin: auto;
+    overflow: hidden;
+    margin-top: 35px;
+    margin-bottom: 20px;
+}
+.feature_icon2 h1{
+    text-transform: capitalize;
+    margin-bottom: 3px;
+    color: #464A4C;
+}
+.feature_icon2 p{
+    color: #8E9091;
+    line-height: 22px;
+}
+.icon_four{
+    float: left;
+    width: 30%;
+    background-color: #F5F5F5;
+    padding-bottom: 25px;
+    
+}   
+.icon_five{
+    float: left;
+    width: 30%;
+    margin-left: 5%;
+    background-color: #F5F5F5;
+    padding-bottom: 25px;
+}   
+.icon_six{
+    float: right;
+    width: 30%;
+    background-color: #F5F5F5;
+    padding-bottom: 25px;
+}  
+footer{
+    background-color: #292640;
+    width: 100%;
+ text-align: center;
+ overflow: hidden;
+}
+.part1{
+    width: 21%;
+    margin: auto;
+    overflow: hidden;
+}
+.part1 h1{
+    color: #fff;
+
+    margin-top: 55px;
+    
+    margin-bottom: 18px;
+    
+    text-transform: capitalize;
+}
+.part1 img{
+margin-top: 20px;
+}
+
+.button2{
+width: 50%;
+margin: auto;
+}
+.part2{
+    width: 100%;
+    background-color: #292640;;
+}
+.img2{
+    float: right;
+}
